@@ -1,0 +1,3 @@
+/lixo/
+/etl/database/*
+!/etl/database/.gitkeep
